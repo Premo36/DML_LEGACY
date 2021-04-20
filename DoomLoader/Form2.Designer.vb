@@ -35,7 +35,7 @@ Partial Class Form2
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(407, 24)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Doom Mod Loader v1.1 - (C) 2016 P36 Software"
+        Me.Label1.Text = "Doom Mod Loader v1.1 - (C) 2016 - 2021 Matteo Premoli, P36 Software"
         '
         'LinkLabel1
         '
@@ -46,7 +46,7 @@ Partial Class Form2
         Me.LinkLabel1.Size = New System.Drawing.Size(235, 25)
         Me.LinkLabel1.TabIndex = 1
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "p36software@mail.com"
+        Me.LinkLabel1.Text = "support@p36software.net"
         Me.LinkLabel1.VisitedLinkColor = System.Drawing.Color.Blue
         '
         'Label2
